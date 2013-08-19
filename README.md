@@ -1,10 +1,10 @@
-== StateMaquine
+## StateMaquine
 
 This is a really simple state machine to handle enter, leave and transitions from states.
 
 I think that one page applications should have a app object that handles state, so I'm making this library to test that hypotesis.
 
-=== Usage
+### Usage
 
 Start you app state machine and create the states of you application.
 
