@@ -1,4 +1,4 @@
-## StateMaquine
+## StateMachine
 
 This is a really simple state machine to handle enter, leave and transitions from states.
 
